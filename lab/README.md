@@ -76,9 +76,16 @@ Delete the placeholder `<p>` and replace it with:
 - `text-gray-600`: Lighter gray for the description
 - `text-center`: Centers all text
 
+
+
 #### Step 3: Save and test
 - Save the file and open in your browser
 - Resize the window to see the text size change
+
+Here is an example of what section 1 will look like in both a bigger and smaller field of view.
+
+<img src="./assets/section1Large.png" >
+<img src="./assets/section1Small.png" >
 
 ---
 
@@ -122,6 +129,11 @@ Example:
 - Save and check your work in the browser
 - Make sure the text sizes and spacing change as you resize
 
+Here is an example of what section 2 will look like in both a bigger and smaller field of view.
+
+<img src="./assets/section2Large.png" >
+<img src="./assets/section2small.png" >
+
 ---
 
 ### Section 3: Product Card (Checklist & Hints)
@@ -142,7 +154,10 @@ Example:
 - The button should have `text-sm sm:text-base font-semibold text-white bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded`
 - For the feature list, use `text-xs sm:text-sm text-gray-500 space-y-1` and add checkmarks (✓)
 
-#### Try to write the HTML yourself! If you get stuck, look at the completed.html for inspiration.
+#### Try to write the HTML yourself! If you get stuck, look below for inspiration.
+
+<img src="./assets/section3Large.png" >
+<img src="./assets/section3Small.png" >
 
 ---
 
@@ -165,6 +180,11 @@ Example:
 
 #### Write the HTML for this section on your own. Test responsiveness as you go!
 
+Here is an example of what section 4 will look like in both a bigger and smaller field of view.
+
+<img src="./assets/section4Large.png" >
+<img src="./assets/section4Small.png" >
+
 ---
 
 ### Section 5: Card Grid (Challenge!)
@@ -183,7 +203,10 @@ Example:
 - [ ] The grid is 1 column on mobile, 2 on medium, 3 on large screens
 - [ ] Consistent spacing and hierarchy
 
-#### This section is up to you! Use what you’ve learned so far. Check your work by comparing to `completed.html` if needed.
+#### This section is up to you! Use what you’ve learned so far. Compare below when you're finished.
+
+<img src="./assets/section5Large.png" >
+<img src="./assets/section5Small.png" >
 
 ---
 
@@ -204,9 +227,15 @@ Example:
 ## 🚀 Advanced Challenges
 
 - Add animations with `transition-` classes
-- Import and use a Google Font
 - Add dark mode support with `dark:` prefix
 - Improve focus states and ARIA labels for accessibility
+
+<details>
+<summary>Click here to view an idea of some of the bonus challenges!</summary>
+
+<img src="./assets/bonusLarge.png" >
+<img src="./assets/bonusSmall.png" >
+</details>
 
 ## 📚 Additional Resources
 
