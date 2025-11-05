@@ -105,7 +105,7 @@ Now it’s time to **apply what you’ve learned**! Open the `lab/` folder and f
 
 ---
 
-#### Task 1: Build 5 Responsive Cards and Responsive Typography (`lab/README.md`)
+### Activity 1: Build 5 Responsive Cards and Responsive Typography (`lab/README.md`)
 
 **Goal**: Make **text adapt beautifully** across **all screen sizes** using Tailwind’s typography system.
 
@@ -126,7 +126,7 @@ Now it’s time to **apply what you’ve learned**! Open the `lab/` folder and f
 
 ---
 
-#### Task 2: Master responsive, theme-powered cards(`lab/theme.md`)
+### Activity 2: Master responsive, theme-powered cards(`lab/theme.md`)
 
 **Goal**: Create a full set of **responsive, theme-powered cards** using your custom design system.
 
@@ -146,15 +146,15 @@ Now it’s time to **apply what you’ve learned**! Open the `lab/` folder and f
 
 ---
 
-### 🚨 Stuck? Check the Solution
+### 🚨 Stuck? View the Solution
 
 ```bash
-git checkout solution
+git checkout solutions
 ```
 
-→ Opens **index.html** with the working version.
+→ Open **lab/activity-1-solution.html** and **lab/activity-2-solution.html** to see the working version..
 
-Switch back anytime:
+Switch back to your work anytime:
 
 ```bash
 git checkout main
