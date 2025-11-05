@@ -1,6 +1,3 @@
-# Lesson: Tailwind CSS Fonts, Text, and Typography
-
-Welcome to the lesson on Tailwind CSS typography! Before you start the lab, read through this guide to understand how to style text responsively and beautifully using Tailwind.
 
 ## 1. Font Families
 Tailwind provides utility classes for setting font families:

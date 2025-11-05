@@ -58,9 +58,10 @@ Delete the placeholder `<p>` and replace it with:
 ```html
 <div class="text-center">
   <h3 class="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-gray-900 mb-3">
-    Welcome to Our Platform
+    Welcome to Our Platformclop's feet.
   </h3>
   <p class="text-sm sm:text-base md:text-lg text-gray-600 leading-relaxed">
+    Discover amazing features that scale beautifully across all devices. O
     Discover amazing features that scale beautifully across all devices. Our responsive design ensures the best experience on mobile, tablet, and desktop.
   </p>
 </div>
@@ -84,8 +85,8 @@ Delete the placeholder `<p>` and replace it with:
 
 Here is an example of what section 1 will look like in both a bigger and smaller field of view.
 
-<img src="./assets/section1Large.png" >
-<img src="./assets/section1Small.png" >
+<img src="../assets/section1Large.png" >
+<img src="../assets/section1Small.png" >
 
 ---
 
@@ -131,8 +132,8 @@ Example:
 
 Here is an example of what section 2 will look like in both a bigger and smaller field of view.
 
-<img src="./assets/section2Large.png" >
-<img src="./assets/section2small.png" >
+<img src="../assets//section2Large.png" >
+<img src="../assets/section2small.png" >
 
 ---
 
@@ -156,8 +157,8 @@ Here is an example of what section 2 will look like in both a bigger and smaller
 
 #### Try to write the HTML yourself! If you get stuck, look below for inspiration.
 
-<img src="./assets/section3Large.png" >
-<img src="./assets/section3Small.png" >
+<img src="../assets/section3Large.png" >
+<img src="../assets/section3Small.png" >
 
 ---
 
@@ -182,8 +183,8 @@ Here is an example of what section 2 will look like in both a bigger and smaller
 
 Here is an example of what section 4 will look like in both a bigger and smaller field of view.
 
-<img src="./assets/section4Large.png" >
-<img src="./assets/section4Small.png" >
+<img src="../assets/section4Large.png" >
+<img src="../assets/section4Small.png" >
 
 ---
 
@@ -205,11 +206,12 @@ Here is an example of what section 4 will look like in both a bigger and smaller
 
 #### This section is up to you! Use what you’ve learned so far. Compare below when you're finished.
 
-<img src="./assets/section5Large.png" >
-<img src="./assets/section5Small.png" >
+<img src="../assets/section5Large.png" >
+<img src="../assets/section5Small.png" >
 
 ---
-
+Continue updating a few labs 
+Separate or add solution in separated branch 
 ## 🎨 Typography Best Practices
 
 - **Mobile-first:** Start with smaller sizes, scale up for larger screens
@@ -223,6 +225,7 @@ Here is an example of what section 4 will look like in both a bigger and smaller
 - Use browser DevTools to simulate different devices
 - Test on real devices if possible
 - Check readability, hierarchy, and accessibility
+- Verify by running `npm test` to check if your tasks pass
 
 ## 🚀 Advanced Challenges
 
@@ -233,8 +236,8 @@ Here is an example of what section 4 will look like in both a bigger and smaller
 <details>
 <summary>Click here to view an idea of some of the bonus challenges!</summary>
 
-<img src="./assets/bonusLarge.png" >
-<img src="./assets/bonusSmall.png" >
+<img src="../assets/bonusLarge.png" >
+<img src="../assets/bonusSmall.png" >
 </details>
 
 ## 📚 Additional Resources
