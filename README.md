@@ -73,7 +73,7 @@ npm test
 ├── node_modules/
 │
 ├── tests/
-|   └── tests/typography.test.js 
+|   └── tests/tailwind-theme-and-typography.test.js 
 │        
 ├── ◌ .gitignore                 
 ├── {} package-lock.json       
